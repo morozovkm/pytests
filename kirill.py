@@ -1,2 +1,3 @@
-print('Kirill')
+print('Kirill Michaelovich')
+print('Novikov Andrey')
 print('!!!')
